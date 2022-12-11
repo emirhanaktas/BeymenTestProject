@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="chromedriver">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Documents/selenium libraries/libraries/chromedriver" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
